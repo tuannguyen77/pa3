@@ -1,0 +1,3 @@
+output: myshell.c
+	gcc -o myshell myshell.c
+	gcc -o version version.c
